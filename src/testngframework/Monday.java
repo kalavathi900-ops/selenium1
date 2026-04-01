@@ -9,8 +9,8 @@ public class Monday {
 	WebDriver driver;
 	
   @Test
-  public void google() {
-	  driver.get("https://www.google.com");
+  public void facebook() {
+	  driver.get("https://www.facebook.com");
   }
   
   @BeforeTest
