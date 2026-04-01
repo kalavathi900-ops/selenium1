@@ -26,7 +26,7 @@ public class log4jTutorial {
 	  driver.get("https://www.techlearn.in/admin");
 	  log.info("Navigete to the Techlearn Login page");
 	  
-	  driver.findElement(By.xpath("//input[@id='user_login']")).sendKeys("kalavathi");
+	  driver.findElement(By.xpath("//input[@id='user_login']")).sendKeys("Nandhana");
 	  log.info("Entered the username kalavathi");
 	  
 	  driver.findElement(By.xpath("//input[@id='user_pass']")).sendKeys("Test@123");
