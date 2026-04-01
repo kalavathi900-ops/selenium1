@@ -7,9 +7,8 @@ import org.testng.annotations.BeforeTest;
 
 public class DemoGit {
 	WebDriver driver;
-	
   @Test
-  public void f() {
+  public void google() {
 	  driver.get("https://www.google.com/");
   }
   @BeforeTest

@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-30T21:45:18 IST" name="Default suite" finished-at="2026-03-30T21:45:33 IST" duration-ms="14929">
+  <suite started-at="2026-04-01T21:10:20 IST" name="Default suite" finished-at="2026-04-01T21:10:30 IST" duration-ms="10267">
     <groups>
     </groups>
-    <test started-at="2026-03-30T21:45:18 IST" name="Default test" finished-at="2026-03-30T21:45:33 IST" duration-ms="14929">
-      <class name="testngframework.C_TestNG_TCs_Execution_Alphabatical_Order">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testngframework.C_TestNG_TCs_Execution_Alphabatical_Order@6f03482]" started-at="2026-03-30T21:45:18 IST" name="beforeTest" finished-at="2026-03-30T21:45:21 IST" duration-ms="3678" status="PASS">
+    <test started-at="2026-04-01T21:10:20 IST" name="Default test" finished-at="2026-04-01T21:10:30 IST" duration-ms="10267">
+      <class name="github.DemoGit">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:github.DemoGit@1e800aaa]" started-at="2026-04-01T21:10:20 IST" name="beforeTest" finished-at="2026-04-01T21:10:28 IST" duration-ms="8520" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="facebook()[pri:0, instance:testngframework.C_TestNG_TCs_Execution_Alphabatical_Order@6f03482]" started-at="2026-03-30T21:45:21 IST" name="facebook" finished-at="2026-03-30T21:45:25 IST" duration-ms="3693" status="PASS">
+        <test-method signature="f()[pri:0, instance:github.DemoGit@1e800aaa]" started-at="2026-04-01T21:10:28 IST" name="f" finished-at="2026-04-01T21:10:30 IST" duration-ms="1633" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- facebook -->
-        <test-method signature="google()[pri:0, instance:testngframework.C_TestNG_TCs_Execution_Alphabatical_Order@6f03482]" started-at="2026-03-30T21:45:25 IST" name="google" finished-at="2026-03-30T21:45:27 IST" duration-ms="2113" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- google -->
-        <test-method signature="zomato()[pri:0, instance:testngframework.C_TestNG_TCs_Execution_Alphabatical_Order@6f03482]" started-at="2026-03-30T21:45:27 IST" name="zomato" finished-at="2026-03-30T21:45:33 IST" duration-ms="5277" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- zomato -->
-      </class> <!-- testngframework.C_TestNG_TCs_Execution_Alphabatical_Order -->
+        </test-method> <!-- f -->
+      </class> <!-- github.DemoGit -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
